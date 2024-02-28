@@ -1,0 +1,29 @@
+body{
+    background-image: url(imagens/bubas.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+h1{
+    color: white;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+    font-size: 50px;
+}
+
+p{
+    color: black;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-size: 40px;
+
+}
+h2{
+    font-size: 30px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    color: black;
+}
+

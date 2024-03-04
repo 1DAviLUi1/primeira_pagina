@@ -1,9 +1,8 @@
 body{
-    background-image: url(imagens/bubas.jpg);
+    background-image: url(imagens/SbHhGyk.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-
 
 }
 h1{
@@ -11,6 +10,7 @@ h1{
     -webkit-text-stroke-width: 3px;
     -webkit-text-stroke-color: black;
     font-size: 50px;
+    text-align: center;
 }
 
 p{
@@ -21,9 +21,28 @@ p{
 
 }
 h2{
-    font-size: 30px;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: white;
-    color: black;
+    font-size: 50px;
+    color:skyblue;
+
+}
+#oi{
+    height: 100px;
+    position: absolute;
+    right: 0%;
+    top: 0%;
+}
+h3{
+    font-family: 'Press Start 2P'; 
+    font-size: 40px;
+    -webkit-text-stroke-color:white;
+    -webkit-text-stroke-width: 2px;
+
 }
 
+/*
+ background-image: url(imagens/bubas.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+SÓ PRA SALVAR AI'""'''''''
+/*

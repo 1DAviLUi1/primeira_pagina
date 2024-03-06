@@ -1,5 +1,5 @@
 body{
-    background-image: url(imagens/SbHhGyk.jpg);
+    background-image: url(imagens/graduationlol.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -15,10 +15,10 @@ h1{
 
 p{
     color: black;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: white;
     font-size: 40px;
-
+    text-align: center;
+    position: relative;
+    bottom: 205px;
 }
 h2{
     font-size: 50px;
@@ -34,10 +34,41 @@ h2{
 h3{
     font-family: 'Press Start 2P'; 
     font-size: 40px;
-    -webkit-text-stroke-color:white;
-    -webkit-text-stroke-width: 2px;
+   
 
 }
+h4{
+    font-size: 40px;
+
+
+}
+li{
+    font-size: 30px;
+
+    
+
+}
+#messi{
+    height: 100px;
+
+}
+footer{
+    background: linear-gradient(#ce0ce8,#ff00b7);
+    
+
+
+
+}
+video{
+    height: 300px;
+    position: relative;
+    left: 84%;
+    bottom: 305px;
+
+}
+
+/* -webkit-text-stroke-color:white;
+    -webkit-text-stroke-width: 2px;/*
 
 /*
  background-image: url(imagens/bubas.jpg);
@@ -46,3 +77,5 @@ h3{
     background-size: cover;
 SÓ PRA SALVAR AI'""'''''''
 /*
+-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
